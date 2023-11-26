@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BheemIsMe
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in Machine Learning and Mathematics
+- 🌱 I’m a computer science student
 - 📫 How to reach me 
 ![twitter](https://twitter.com/BheemIsMe)
 <!---

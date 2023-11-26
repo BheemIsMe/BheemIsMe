@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ![Sudarshan](github.com/bheemisme)
+- 👋 Hi, I’m Sudarshan
 - 👀 I’m interested in Machine Learning and Mathematics
 - 🌱 I’m a computer science student
   

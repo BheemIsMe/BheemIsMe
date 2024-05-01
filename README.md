@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudarshan
-- 👀 I’m interested in Machine Learning and Mathematics
-- 🌱 I’m a computer science student
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m a software developer
   
 
 <!---
